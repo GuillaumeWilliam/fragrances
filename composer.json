@@ -1,0 +1,14 @@
+{
+    "name": "william/fragrances",
+    "authors": [
+        {
+            "name": "GuillaumeWilliam",
+            "email": "79135742+GuillaumeWilliam@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "stripe/stripe-php": "^7.76",
+        "phpmailer/phpmailer": "^6.4"
+    }
+}
+

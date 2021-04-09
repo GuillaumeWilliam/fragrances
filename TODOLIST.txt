@@ -1,0 +1,5 @@
+PUBLIC :
+- Title/text next to carousel
+- jQuery search
+
+ADMIN
